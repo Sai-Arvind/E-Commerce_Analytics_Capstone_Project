@@ -109,3 +109,41 @@ To improve sales performance in 2023:
 
 ## 📂 Repository Structure  
 
+vrinda-store-dashboard/
+│
+├── datasets/ # Raw Excel dataset (Vrinda_Store_Sales_2022.xlsx)
+│
+├── docs/ # Documentation and resources
+│ ├── data_cleaning_steps.md # Details of cleaning and preprocessing
+│ ├── dashboard_design_guide.md # Design layout and slicer setup
+│ ├── key_insights.md # Summary of major findings
+│
+├── reports/ # Final analysis files
+│ ├── Vrinda_Store_Analysis.xlsx # Final interactive dashboard
+│
+├── README.md # Project overview and documentation
+├── LICENSE # License information
+├── .gitignore # Git ignored files
+
+
+---
+
+## 🛡️ License  
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and share this project with proper attribution.  
+
+---
+
+## 🌟 About Me  
+
+Hi there! I'm **A. Sai Arvind**, a passionate **Data Analyst** who loves turning raw data into actionable business insights.  
+
+**Let’s connect!**  
+📧 **Email:** saiarvind5081@gmail.com
+🔗 **LinkedIn:** https://www.linkedin.com/in/saiarvindofficial/  
+🔗 **GitHub:** https://github.com/Sai-Arvind
+
+---
+
+⭐ *If you found this project helpful, please give it a star!* ⭐  
+
