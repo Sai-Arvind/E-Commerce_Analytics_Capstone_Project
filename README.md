@@ -108,7 +108,7 @@ To improve sales performance in 2023:
 ---
 
 ## 📂 Repository Structure  
-
+```
 vrinda-store-dashboard/
 │
 ├── datasets/ # Raw Excel dataset (Vrinda_Store_Sales_2022.xlsx)
@@ -123,7 +123,7 @@ vrinda-store-dashboard/
 │
 ├── README.md # Project overview and documentation
 ├── LICENSE # License information
-├── .gitignore # Git ignored files
+├── .gitignore # Git ignored files ```
 
 
 ---
