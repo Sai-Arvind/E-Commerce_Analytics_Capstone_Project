@@ -123,8 +123,8 @@ vrinda-store-dashboard/
 │
 ├── README.md # Project overview and documentation
 ├── LICENSE # License information
-├── .gitignore # Git ignored files ```
-
+├── .gitignore # Git ignored files
+```
 
 ---
 
