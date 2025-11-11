@@ -85,7 +85,7 @@ The final dashboard provides visibility into:
 - **Top Product Categories**  
 - **Order Status Overview**  
 
-📊 *Dashboard Preview:* *(Add an image of your dashboard here)*  
+📊 *Dashboard Preview:*  
 <img width="1074" height="432" alt="image" src="https://github.com/user-attachments/assets/daad1e8e-b92b-4bec-bcfb-9de4c41f433c" />
 ---
 
