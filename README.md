@@ -1,4 +1,4 @@
-# Vrinda Store Dashboard Excel  
+# Vrinda E-Commerce Store Analytics Customer Segmentation & Sales Forecasting  
 Welcome to the **Vrinda Store Dashboard** repository! 🚀  
 This project showcases a **data-driven sales analysis** built entirely in **Microsoft Excel**, designed to understand **customer behavior**, identify **sales trends**, and improve **business strategies** through an **interactive dashboard**.  
 
